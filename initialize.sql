@@ -16,6 +16,7 @@ CREATE TABLE users (
   web VARCHAR(50),
   PRIMARY KEY(id)
 );
+
 INSERT INTO users
 	(first_name, last_name, company_name, address, city, county, state, zip, phone1, phone2, email, web)
 VALUES 
