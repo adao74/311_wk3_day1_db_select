@@ -6,6 +6,8 @@ You should have created a Google Cloud account, created a project, created and i
 
 Start by opening MySQL Workbench
 
+ALTERNATIVE SETUP: https://sqlfiddle.com/mysql/online-compiler or https://www.db-fiddle.com/ 
+
 ## Part 1 - Initialize data
 
 In this repo you'll see another file called `initialize.sql`. This file contains SQL scripts to create a table called users and populate it with data. Follow these instructions to run the script in MySQL Workbench so that you populate data in your GoogleCloud Database!!
